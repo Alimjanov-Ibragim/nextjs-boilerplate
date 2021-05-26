@@ -1,3 +1,6 @@
+.cache
+**/dist/*
+**/build/*
 **/node_modules/*
 **/out/*
 **/.next/*
